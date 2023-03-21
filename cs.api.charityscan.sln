@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs.api.charityscan", "cs.api.charityscan.csproj", "{4AF9CF78-89C1-4F59-BB5D-216158A7C437}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityScanWebApp", "..\CharityScanWebApp\CharityScanWebApp.csproj", "{75BC088A-8160-48E3-BCB7-2FF133469EA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4AF9CF78-89C1-4F59-BB5D-216158A7C437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4AF9CF78-89C1-4F59-BB5D-216158A7C437}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4AF9CF78-89C1-4F59-BB5D-216158A7C437}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4AF9CF78-89C1-4F59-BB5D-216158A7C437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BC088A-8160-48E3-BCB7-2FF133469EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BC088A-8160-48E3-BCB7-2FF133469EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BC088A-8160-48E3-BCB7-2FF133469EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BC088A-8160-48E3-BCB7-2FF133469EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

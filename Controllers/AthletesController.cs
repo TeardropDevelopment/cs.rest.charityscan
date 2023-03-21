@@ -45,8 +45,8 @@ namespace cs.api.charityscan.Controllers
             {
                 return NotFound();
             }
-
-            return athlete;
+            HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");
+            return StatusCode(StatusCodes.Status200OK, athlete);
         }
 
         // PUT: api/Athletes/5
